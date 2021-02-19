@@ -9,5 +9,5 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of Sprockets new customers in the 'new customer list' dataset should be targeted to drive the most value for the organisation.
 
 ### Plan
-Split Sprockets existing customer base into various segments that can be individually targeted using techniques such as K-Means Clustering and Recency, Frequency and Monetary segmentation.
-Develop a supervised learning model to predict which segments Sprockets new customers would fall under.
+- Split Sprockets existing customer base into various segments that can be individually targeted using techniques such as K-Means Clustering and Recency, Frequency and Monetary segmentation.
+- Develop a supervised learning model to predict which segments Sprockets new customers would fall under.
